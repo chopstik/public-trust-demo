@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "card_number": "ABCD123412341234",
+    "IBAN": "123456",
+    "transaction": {
+      "cashflow": "out",
+      "amount": 1.25
+    }
+  },
+  {
+    "id": 2,
+    "card_number": "ABCD123412341234",
+    "IBAN": "123456",
+    "transaction": {
+      "cashflow": "in",
+      "amount": 50.23
+    }
+  }
+]
